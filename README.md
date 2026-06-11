@@ -80,9 +80,3 @@ https://github.com/Eswarreddy15503/E-Commerce-Sales-Analysis/blob/main/dashboard
 ## Author
 
 Eswar Reddy
-
-
-
-## Author
-
-Eswar Reddy

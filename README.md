@@ -75,7 +75,7 @@ This project analyzes e-commerce sales data to identify:
 
 ## Dashboard Preview
 
-https://github.com/Eswarreddy15503/E-Commerce-Sales-Analysis/blob/main/dashboard.png
+![Dashboard](dashboard.png)
 
 ## Author
 
